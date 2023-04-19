@@ -4,13 +4,6 @@ Created on Mon Apr  3 16:16:06 2023
 
 @author: User
 """
-
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar  7 14:39:32 2023
-
-@author: user
-"""
 # Load packages
 import cv2
 import numpy as np
